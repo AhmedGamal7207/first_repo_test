@@ -1,2 +1,2 @@
-x = 1
+x = "Maya"
 print(x)
